@@ -1,0 +1,5 @@
+-# 
+- Olá meu nome é @Gsg2022
+- 👍Meu email de contato é gustavo.silva.gabriel@escola.pr.gov.br
+- 👀 Estou interessado em aprender a programar novas linguagens
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem Javascript e Scratch
